@@ -1,0 +1,40 @@
+body{
+    background-image:url(blackwave);
+}
+h3{
+    font-size: 60px;
+    margin: 0px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    color: orangered ;
+}
+.container2 div {
+    margin-top: 20px;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+input {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    background: transparent;
+    color: orangered;
+    font-weight: bold;
+}
+button {
+
+    padding-left: 86px;
+    padding-right: 86px;
+    border: 1px solid black;
+    padding-bottom: 10px;
+    background: transparent;
+    color: orangered;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.vær {
+    font-size: 80px;
+    font-weight: bold;
+}
